@@ -1,10 +1,10 @@
 
 <h1>Tutorial (you need at least 2 braincells)</h1>
-  #  1. get api key from google (add youtube data api v3 to your project on google developer portal)
-  #  2. put it in server.lua with the discord webhook too (if you want logs)
-  #  3. fill out everything you want to fill out in config
-  #  4. try script
-  #  if not work = idk (didnt test before release)
+  <li>#  1. get api key from google (add youtube data api v3 to your project on google developer portal)</li>
+  <li>#  2. put it in server.lua with the discord webhook too (if you want logs)</li>
+  <li>#  3. fill out everything you want to fill out in config</li>
+  <li>#  4. try script</li>
+  <li>#  if not work = idk (didnt test before release)</li>
 
 ```ensure zykem_youtube```
 
